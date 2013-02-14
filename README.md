@@ -1,5 +1,5 @@
 OpenCalais NER 
-http://shujianbu.github.com/Open_Calais_NER/
+- http://shujianbu.github.com/Open_Calais_NER/
 
 ===============
 
